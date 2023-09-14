@@ -10,6 +10,8 @@ The project was deployed on render and the database hosted on MongoDB atlas.
 
 PERSONAPI DOCUMENTATION
 
+Postman Documentation Link: https://documenter.getpostman.com/view/23604165/2s9YC4VDdp
+
 HTTP Method - POST: addPerson
 URL: https://person-entity.onrender.com/api
 
