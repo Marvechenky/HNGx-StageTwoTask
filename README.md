@@ -6,6 +6,10 @@ Project dependencies include express, a backend web application framework for bu
 
 The project was deployed on render and the database hosted on MongoDB atlas.
 
+
+PERSONAPI DOCUMENTATION
+
+
 HTTP Method - POST: addPerson
 URL: https://person-entity.onrender.com/api
 
@@ -36,6 +40,10 @@ HTTP Response
 "success": true
 }
 
+
+
+
+
 HTTP Method - GET: getPerson
 URL: https://person-entity.onrender.com/api/6501abd1f7f347def6844e80
 
@@ -58,6 +66,10 @@ HTTP Response
 },
 "success": true
 }
+
+
+
+
 
 HTTP Method - PUT: updatePerson
 URL: https://person-entity.onrender.com/api/6501abd1f7f347def6844e80
@@ -82,6 +94,8 @@ HTTP Response
 "name": "Ronaldo Messi",
 "\_\_v": 0
 }
+
+
 
 HTTP Method - DELETE: deletePerson
 URL: https://person-entity.onrender.com/api/6501abd1f7f347def6844e80
