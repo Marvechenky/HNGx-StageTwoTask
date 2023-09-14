@@ -1,7 +1,7 @@
 {
   "name": "stagetwotask",
   "version": "1.0.0",
-  "description": "Restful API of a person entity with endpoints to perform CRUD operations on the person entity. Built with node.js, express framework and MongoDB NoSQL database to be consumed by any client application.",
+  "description": "Restful API of a person entity with endpoints to perform CRUD operations on the person entity. Built with node.js, express framework and MongoDB NoSQL database and hosted on render with database hosted using MongoDb atlas.",
   "main": "src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
