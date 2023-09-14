@@ -10,7 +10,6 @@ The project was deployed on render and the database hosted on MongoDB atlas.
 
 PERSONAPI DOCUMENTATION
 
-
 HTTP Method - POST: addPerson
 URL: https://person-entity.onrender.com/api
 
@@ -41,10 +40,6 @@ HTTP Response
 "success": true
 }
 
-
-
-
-
 HTTP Method - GET: getPerson
 URL: https://person-entity.onrender.com/api/6501abd1f7f347def6844e80
 
@@ -67,10 +62,6 @@ HTTP Response
 },
 "success": true
 }
-
-
-
-
 
 HTTP Method - PUT: updatePerson
 URL: https://person-entity.onrender.com/api/6501abd1f7f347def6844e80
@@ -96,8 +87,6 @@ HTTP Response
 "\_\_v": 0
 }
 
-
-
 HTTP Method - DELETE: deletePerson
 URL: https://person-entity.onrender.com/api/6501abd1f7f347def6844e80
 
@@ -116,5 +105,7 @@ HTTP Response
 {
 "message": "Person successfully deleted."
 }
-=======
->>>>>>> e4e232e687bb92d61f015312d144353343201502
+
+
+
+
